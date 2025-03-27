@@ -18,7 +18,7 @@ docker build -t tgrall/mcp-github-actions-versions .
 
 {
   "mcpServers": {
-    "github": {
+    "github-actions-version": {
       "command": "docker",
       "args": [
         "run",
